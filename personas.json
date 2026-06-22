@@ -1,0 +1,129 @@
+{
+  "personas": [
+    {
+      "name": "Eleanor",
+      "age": 78,
+      "background": "Retired elementary school teacher. Loves nature walks and spending time with grandchildren. Finds comfort in bright, warm outdoor scenes.",
+      "preferences": {
+        "num_people": 0.3,
+        "age_child": 0.7,
+        "age_adult": 0.1,
+        "age_older_adult": 0.2,
+        "setting_outdoor": 0.8,
+        "setting_indoor": -0.4,
+        "color_warm": 0.5,
+        "color_cool": -0.1,
+        "color_neutral": 0.0,
+        "brightness_bright": 0.6,
+        "brightness_moderate": 0.1,
+        "brightness_dim": -0.6,
+        "nature_water": 0.4,
+        "nature_plants": 0.7,
+        "nature_animals": 0.5,
+        "time_morning": 0.3,
+        "time_afternoon": 0.2,
+        "time_evening": -0.2
+      }
+    },
+    {
+      "name": "Frank",
+      "age": 82,
+      "background": "Retired longshoreman from San Francisco. Loves cityscapes, bridges, and the waterfront. Prefers cooler tones and urban energy. Dislikes overly quiet or empty scenes.",
+      "preferences": {
+        "num_people": 0.5,
+        "age_child": 0.0,
+        "age_adult": 0.3,
+        "age_older_adult": 0.1,
+        "setting_outdoor": 0.4,
+        "setting_indoor": -0.2,
+        "color_warm": -0.1,
+        "color_cool": 0.6,
+        "color_neutral": 0.1,
+        "brightness_bright": 0.3,
+        "brightness_moderate": 0.2,
+        "brightness_dim": -0.3,
+        "nature_water": 0.8,
+        "nature_plants": -0.1,
+        "nature_animals": 0.0,
+        "time_morning": 0.2,
+        "time_afternoon": 0.1,
+        "time_evening": 0.4
+      }
+    },
+    {
+      "name": "Margaret",
+      "age": 75,
+      "background": "Former florist and avid gardener. Drawn to close-up nature scenes, flowers, and warm golden light. Overwhelmed by crowds or busy urban settings.",
+      "preferences": {
+        "num_people": -0.5,
+        "age_child": 0.2,
+        "age_adult": -0.1,
+        "age_older_adult": 0.1,
+        "setting_outdoor": 0.6,
+        "setting_indoor": 0.1,
+        "color_warm": 0.8,
+        "color_cool": -0.3,
+        "color_neutral": 0.0,
+        "brightness_bright": 0.4,
+        "brightness_moderate": 0.3,
+        "brightness_dim": -0.5,
+        "nature_water": 0.3,
+        "nature_plants": 0.9,
+        "nature_animals": 0.4,
+        "time_morning": 0.5,
+        "time_afternoon": 0.3,
+        "time_evening": -0.3
+      }
+    },
+    {
+      "name": "James",
+      "age": 80,
+      "background": "Retired high school basketball coach. Energized by images of people, activity, and social gatherings. Prefers bright, well-lit scenes. Indifferent to nature.",
+      "preferences": {
+        "num_people": 0.8,
+        "age_child": 0.4,
+        "age_adult": 0.6,
+        "age_older_adult": 0.3,
+        "setting_outdoor": 0.3,
+        "setting_indoor": 0.3,
+        "color_warm": 0.3,
+        "color_cool": 0.0,
+        "color_neutral": 0.1,
+        "brightness_bright": 0.7,
+        "brightness_moderate": 0.1,
+        "brightness_dim": -0.7,
+        "nature_water": 0.0,
+        "nature_plants": 0.0,
+        "nature_animals": 0.1,
+        "time_morning": 0.1,
+        "time_afternoon": 0.4,
+        "time_evening": -0.2
+      }
+    },
+    {
+      "name": "Dorothy",
+      "age": 85,
+      "background": "Former librarian who loved quiet evenings and cozy indoor spaces. Responds well to calm, dim, warm-toned images. Anxious around crowds or busy scenes.",
+      "preferences": {
+        "num_people": -0.6,
+        "age_child": 0.1,
+        "age_adult": -0.2,
+        "age_older_adult": 0.3,
+        "setting_outdoor": -0.2,
+        "setting_indoor": 0.7,
+        "color_warm": 0.7,
+        "color_cool": -0.4,
+        "color_neutral": 0.1,
+        "brightness_bright": -0.3,
+        "brightness_moderate": 0.5,
+        "brightness_dim": 0.4,
+        "nature_water": 0.1,
+        "nature_plants": 0.3,
+        "nature_animals": 0.5,
+        "time_morning": 0.0,
+        "time_afternoon": 0.1,
+        "time_evening": 0.6
+      }
+    }
+  ]
+}

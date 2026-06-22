@@ -1,0 +1,198 @@
+{
+  "brooklyn.JPG": {
+    "num_people": 2,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [],
+    "time_of_day": "daytime",
+    "scene_type": "Brooklyn Bridge pedestrian walkway with NYC skyline"
+  },
+  "cat.png": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "indoor",
+    "color_temperature": "warm",
+    "brightness": "dim",
+    "nature_present": [
+      "animals"
+    ],
+    "time_of_day": "unclear",
+    "scene_type": "bedroom with cat"
+  },
+  "children.JPG": {
+    "num_people": 3,
+    "age_brackets": [
+      "child",
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "warm",
+    "brightness": "bright",
+    "nature_present": [
+      "plants"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "suburban plaza or campus courtyard"
+  },
+  "cityview.JPG": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [
+      "water"
+    ],
+    "time_of_day": "sunset",
+    "scene_type": "city skyline aerial view"
+  },
+  "dog.png": {
+    "num_people": 1,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "indoor",
+    "color_temperature": "warm",
+    "brightness": "moderate",
+    "nature_present": [
+      "animals"
+    ],
+    "time_of_day": "evening",
+    "scene_type": "indoor portrait with pet"
+  },
+  "duck.png": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "warm",
+    "brightness": "dim",
+    "nature_present": [
+      "water",
+      "plants",
+      "animals"
+    ],
+    "time_of_day": "sunset",
+    "scene_type": "lakeside rocky shore"
+  },
+  "family.JPG": {
+    "num_people": 2,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "indoor",
+    "color_temperature": "warm",
+    "brightness": "moderate",
+    "nature_present": [],
+    "time_of_day": "daytime",
+    "scene_type": "indoor bar or restaurant"
+  },
+  "fish.JPG": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [
+      "water",
+      "plants",
+      "animals"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "koi pond garden"
+  },
+  "garden.JPG": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [
+      "water",
+      "plants"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "Japanese garden"
+  },
+  "newyork.JPG": {
+    "num_people": 5,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [],
+    "time_of_day": "late afternoon",
+    "scene_type": "rooftop observation deck"
+  },
+  "ocean.JPG": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "bright",
+    "nature_present": [
+      "water",
+      "plants"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "rocky coastal cliffside with ocean waves"
+  },
+  "race.png": {
+    "num_people": 4,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "warm",
+    "brightness": "bright",
+    "nature_present": [],
+    "time_of_day": "morning",
+    "scene_type": "race finish area / outdoor event"
+  },
+  "rock.jpg": {
+    "num_people": 1,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "bright",
+    "nature_present": [
+      "water"
+    ],
+    "time_of_day": "midday",
+    "scene_type": "rocky coastline"
+  },
+  "sanfran.JPG": {
+    "num_people": 1,
+    "age_brackets": [
+      "adult"
+    ],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [
+      "water"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "bridge over bay with fog"
+  },
+  "waterfall.png": {
+    "num_people": 0,
+    "age_brackets": [],
+    "setting": "outdoor",
+    "color_temperature": "cool",
+    "brightness": "moderate",
+    "nature_present": [
+      "water",
+      "plants"
+    ],
+    "time_of_day": "daytime",
+    "scene_type": "forest waterfall with rocky stream"
+  }
+}
