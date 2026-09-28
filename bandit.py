@@ -31,7 +31,7 @@ def oracle_best_score(persona, rng):
     return max(scores)
 
 
-# --- Policies ---
+# --- policies! ---
 
 class RandomPolicy:
     def __init__(self, n_arms, n_features):
